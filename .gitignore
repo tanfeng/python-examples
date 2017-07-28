@@ -99,3 +99,15 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# idea
+.idea/
+.idea/encodings.xml
+.idea/inspectionProfiles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/python-examples.iml
+.idea/workspace.xml
+
+# excel
+*.xlsx
